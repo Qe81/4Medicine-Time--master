@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="caregiver_options">
+        <item>Помощь</item>
+        <item>Удалить контакт</item>
+        <item>Отмена</item>
+    </array>
+
+    <array name="intervals_array">
+        <item>Каждые 24 часа</item>
+        <item>Каждые 12 часа</item>
+        <item>Каждые 8 часа</item>
+        <item>Каждые 6 часа</item>
+        <item>Каждые 4 часа</item>
+        <item>Каждые 2 часа</item>
+    </array>
+
+    <array name="medications_shape_array">
+        <item>Таблетка(и)</item>
+        <item>Капсула(ы)</item>
+        <item>Капли</item>
+        <item>Мазь(и)</item>
+        <item>Спрэй</item>
+        <item>Укол(ы)</item>
+        <item>Капильница(ы)</item>
+        <item>Свеча(и)</item>
+    </array>
+    <array name="pill_cycle_formats">
+        <item>21+7</item>
+        <item>22+6</item>
+        <item>23+5</item>
+        <item>24+4</item>
+        <item>26+2</item>
+        <item>28+0</item>
+        <item>35+7</item>
+        <item>42+7</item>
+        <item>63+7</item>
+        <item>84+7</item>
+        <item>14+14</item>
+    </array>
+    <array name="week_days_abbreviations">
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </array>
+</resources>

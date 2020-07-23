@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Medicine Time</string>
+    <string name="title_medicine_name">Название лекарства</string>
+    <string name="hint_enter_med_name">Введите лекарство</string>
+    <string name="medicine_days">Дни приёма</string>
+    <string name="title_treatment_deadline">Срок лечения</string>
+    <string name="title_continuous_use">Непрерывное использование</string>
+    <string name="title_reminder">Напоминание</string>
+    <string name="new_medicine">НОВОЕ ЛЕКАРСТВО</string>
+    <string name="every_day">Каждый день</string>
+    <string name="no_medicine_added">Лекарство не добавлено</string>
+    <string name="loading_tasks_error">Ошибка при загрузке лекарства</string>
+    <string name="successfully_saved_me_message">Лекарство добавлено успешно</string>
+    <string name="successfully_deleted_message">Лекарство удалено успешно</string>
+    <string name="reminder_message">Время принимать лекарства</string>
+    <string name="ignored">ПРОПУЩЕНО</string>
+    <string name="taken">ПРИНЯТЫ</string>
+    <string name="all">ВСЕ</string>
+    <string name="menu_filter">Фильтр</string>
+    <string name="all_label">Все лекарства</string>
+    <string name="ignore_label">Лекарства игнорируются</string>
+    <string name="taken_label">Лекарство принято</string>
+    <string name="no_history">История не найдена</string>
+    <string name="no_taken_med_history">Вы не принимали никаких лекарств</string>
+    <string name="no_ignored_history">Вы не пропускали никаких лекарств</string>
+    <string name="menu_stats">Ежемесячный отчет</string>
+</resources>
